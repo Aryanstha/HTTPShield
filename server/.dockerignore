@@ -1,0 +1,5 @@
+dev.db
+node_modules/
+frontend/node_modules/
+data/*
+frontend/dist
